@@ -1,1 +1,2 @@
 # DLL-BST
+This is an implementation with Abstract Data Types, where you can add elements and remove elements from a set,check if the element is present,and check if the set is empty or of it has some data then return the number of elements in a set. This implementation also implements the Union,Intersection,Difference and Subset. All of this is done using doubly linked list and binary search trees.  
